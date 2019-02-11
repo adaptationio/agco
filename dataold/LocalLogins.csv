@@ -1,0 +1,5 @@
+"id";"email";"password";"resetToken";"resetExpire";"failAttempts";"status";"createdAt";"updatedAt";"UserId"
+1;"paul.robinson@kyndling.com";"$2a$10$qpiiv.h9zJK06U4XuRKKbOX1yBhkh5mRHEM/iTW.tQIssPuSwxaha";"";"";98;"active";"2016-02-16 13:22:13";"2016-10-22 08:46:13";"0fecd980-86b1-4d47-bcd7-5aeac6dc902d"
+2;"mick@agco.net.au";"$2a$10$Z9y8QCmc1gX1/EYJCZeAfOmgnDRlzj0NJA1Q2w/wfcC/GcHDBT1bK";"";"";0;"active";"2016-03-29 23:05:35";"2016-03-29 23:05:35";"3d89667a-f8ee-4fcc-aa7c-690659ba2806"
+5;"sam@agco.net.au";"$2a$10$NQ6AAxtLyBdDwzqM4tD3xOeHK7C59Zfj.KcB2.sRaT0.fFU6mDP1.";"";"";0;"active";"2016-03-29 23:16:59";"2016-03-29 23:16:59";"6e0a0cbd-cef4-4ffc-9b0b-ae236a6612bb"
+6;"ray@agco.net.au";"$2a$10$T0LGJq7jJsVzGOSsoRHFDOyu82/XcfBPPRciEBiEuwIG41ZDj6iuS";"";"";0;"active";"2016-03-31 03:00:53";"2016-03-31 03:00:53";"c629ddc2-c817-435f-a678-109c94890a7f"
